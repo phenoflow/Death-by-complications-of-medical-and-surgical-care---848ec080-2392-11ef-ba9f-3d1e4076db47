@@ -1,0 +1,213 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-therap---secondary.py
+inputModule3:
+  class: File
+  path: python/anaesthetic-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule4:
+  class: File
+  path: python/miscellaneous-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule5:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-perfusion---secondary.py
+inputModule6:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-puncture---secondary.py
+inputModule7:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-antiparkinsonism---secondary.py
+inputModule8:
+  class: File
+  path: python/agonist-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule9:
+  class: File
+  path: python/patient-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule10:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-antibiotics---secondary.py
+inputModule11:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-specified---secondary.py
+inputModule12:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-heart---secondary.py
+inputModule13:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-misadventure---secondary.py
+inputModule14:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-anaesthesiology---secondary.py
+inputModule15:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-blocking---secondary.py
+inputModule16:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-antiparasitics---secondary.py
+inputModule17:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-surgery---secondary.py
+inputModule18:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-plastic---secondary.py
+inputModule19:
+  class: File
+  path: python/topical-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule20:
+  class: File
+  path: python/central-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule21:
+  class: File
+  path: python/systemic-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule22:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-sequelae---secondary.py
+inputModule23:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-unspec---secondary.py
+inputModule24:
+  class: File
+  path: python/otorhinolaryngological-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule25:
+  class: File
+  path: python/mineralocorticoid-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule26:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-neuroleptics---secondary.py
+inputModule27:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-medicine---secondary.py
+inputModule28:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-immunization---secondary.py
+inputModule29:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-examination---secondary.py
+inputModule30:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-acting---secondary.py
+inputModule31:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-classified---secondary.py
+inputModule32:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-fluid---secondary.py
+inputModule33:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-antipsychotics---secondary.py
+inputModule34:
+  class: File
+  path: python/radiological-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule35:
+  class: File
+  path: python/derivative-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule36:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-antipyretics---secondary.py
+inputModule37:
+  class: File
+  path: python/ophthalmic-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule38:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-antianxiety---secondary.py
+inputModule39:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-product---secondary.py
+inputModule40:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-constituent---secondary.py
+inputModule41:
+  class: File
+  path: python/neurological-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule42:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-transfusion---secondary.py
+inputModule43:
+  class: File
+  path: python/orthopaedic-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule44:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-given---secondary.py
+inputModule45:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-vasodilator---secondary.py
+inputModule46:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-antidepressant---secondary.py
+inputModule47:
+  class: File
+  path: python/psychotropic-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule48:
+  class: File
+  path: python/personal-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule49:
+  class: File
+  path: python/bacterial-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule50:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-means---secondary.py
+inputModule51:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-monitoring---secondary.py
+inputModule52:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-inhibitor---secondary.py
+inputModule53:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-packing---secondary.py
+inputModule54:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-stimulant---secondary.py
+inputModule55:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-diuretics---secondary.py
+inputModule56:
+  class: File
+  path: python/cardiovascular-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule57:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-antifungal---secondary.py
+inputModule58:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-component---secondary.py
+inputModule59:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-accessory---secondary.py
+inputModule60:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-operation---secondary.py
+inputModule61:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-instrument---secondary.py
+inputModule62:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-dosage---secondary.py
+inputModule63:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-anticoagulant---secondary.py
+inputModule64:
+  class: File
+  path: python/opioid-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule65:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-administration---secondary.py
+inputModule66:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-gynae---secondary.py
+inputModule67:
+  class: File
+  path: python/inappropriate-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule68:
+  class: File
+  path: python/antineopastic-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule69:
+  class: File
+  path: python/mixed-death-by-complications-of-medical-and-surgical-care-unnatural-cause---secondary.py
+inputModule70:
+  class: File
+  path: python/death-by-complications-of-medical-and-surgical-care-unnatural-cause-preparation---secondary.py
+inputModule71:
+  class: File
+  path: python/output-cases.py
